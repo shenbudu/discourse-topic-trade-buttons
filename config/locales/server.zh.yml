@@ -1,0 +1,8 @@
+zh:
+  site_settings:
+    topic_trade_buttons_enabled: "话题交易按钮已启用？"
+  topic_trading:
+    sold: 已售出
+    purchased: 已购买
+    exchanged: 已交换
+    cancelled: 已取消
